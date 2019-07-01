@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bisaibang",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "myApp",
+    "packageName": "com.bisaibang",
+    "packageFolder": "com/bisaibang",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2RhNDM0OTVjMWMwMWY5YmE0YjFjZTI2NDg2ZjNhMTQ5MWEwZDNiYzVjMzhkYWU4ZDE4MzkwNDVhMmRiMDI4NDZkYzM2OGMwZDZkYWVlZWMxODU0ZWJjOGI5NzljYzIzZGNjYWViNzEyMzhkOTY5ZmVlOTlhMGVhM2MyZGQ2MDQ=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn"]
+  }
+}
